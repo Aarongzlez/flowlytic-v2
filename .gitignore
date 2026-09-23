@@ -1,0 +1,7 @@
+node_modules/
+dist/
+flowlytic-deploy.zip
+flowlyticv2-deploy.zip
+.netlify/
+qa/
+.revisions/

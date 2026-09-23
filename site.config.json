@@ -1,0 +1,18 @@
+{
+  "brand": "Flowlytic",
+  "stage": "review",
+  "url": "https://flowlyticv2.netlify.app",
+  "legalCompanyName": "[LEGAL_COMPANY_NAME]",
+  "contactEmail": "[CONTACT_EMAIL]",
+  "formRecipient": "[FORM_RECIPIENT]",
+  "formEndpoint": "[FORM_ENDPOINT_OR_CRM]",
+  "privacyUrl": "[PRIVACY_URL]",
+  "calendarUrl": "[CALENDAR_URL]",
+  "termsUrl": "[TERMS_URL]",
+  "legalJurisdiction": "[LEGAL_JURISDICTION]",
+  "linkedinUrl": "[LINKEDIN_URL]",
+  "analyticsProvider": "[ANALYTICS_PROVIDER]",
+  "analyticsId": "",
+  "legalReviewed": false,
+  "indexingApproved": false
+}

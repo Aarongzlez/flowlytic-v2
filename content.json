@@ -1,0 +1,320 @@
+{
+  "3.1": {
+    "title": "SEO y metadatos",
+    "blocks": [
+      "Title: [BRAND_NAME] | Practical Automation, Integrations & Custom Software\n\nMeta description: We help U.S. businesses reduce manual work, connect their systems, and increase capacity with practical automation, AI, and custom software.\n\nOpen Graph title: Make Your Operations Work Smarter\n\nOpen Graph description: Find costly process friction and fix it with practical automation, integrations, AI, or purpose-built software.\n\nCanonical URL: [CANONICAL_URL]\n\nOG image alt: [BRAND_NAME] — practical automation for growing businesses"
+    ],
+    "headings": []
+  },
+  "3.2": {
+    "title": "Header",
+    "blocks": [
+      "[BRAND_NAME]",
+      "Services\nProcess\nExamples\nFAQ\nContact",
+      "Book a Discovery Call",
+      "Open navigation\nClose navigation"
+    ],
+    "headings": [
+      "Wordmark:",
+      "Navigation:",
+      "Primary header CTA:"
+    ]
+  },
+  "3.3": {
+    "title": "Hero",
+    "blocks": [
+      "PRACTICAL AUTOMATION FOR GROWING BUSINESSES",
+      "Turn Operational Friction Into Capacity",
+      "We analyze how work actually moves through your business, identify what is costing time or creating errors, and build the right fix—AI when it adds value, reliable automation when it does not, and custom software when off-the-shelf tools fall short.",
+      "Book a Discovery Call",
+      "See How We Work",
+      "Start with one workflow. Get a clear view of the opportunity before committing to a larger build.",
+      "FROM\nManual handoffs\nDuplicate data entry\nScattered approvals\nReactive follow-up\n\nTO\nConnected workflows\nConsistent data\nVisible ownership\nMore team capacity"
+    ],
+    "headings": [
+      "Eyebrow:",
+      "H1:",
+      "Body:",
+      "Primary CTA:",
+      "Secondary CTA:",
+      "Microcopy beneath CTAs:",
+      "Hero supporting panel (visual, no fabricated dashboard claim):"
+    ]
+  },
+  "3.4": {
+    "title": "Franja de confianza",
+    "blocks": [
+      "Process-first recommendations\nAI only where it earns its place\nBuilt around your existing tools\nImpact measured against a baseline"
+    ],
+    "headings": []
+  },
+  "3.5": {
+    "title": "Problemas",
+    "blocks": [
+      "WHERE CAPACITY GETS LOST",
+      "Small Inefficiencies Become Expensive at Scale",
+      "Operational drag rarely comes from one dramatic failure. It builds through repeated manual steps, disconnected systems, unclear handoffs, and workarounds that no longer fit the business.",
+      "Your team copies data, prepares routine reports, routes requests, or sends the same follow-ups every day.",
+      "Important information lives across your CRM, inbox, accounting platform, forms, spreadsheets, and internal systems.",
+      "Re-keying data and relying on memory creates inconsistencies, missed steps, and avoidable rework.",
+      "More customers create more coordination, and hiring becomes the default answer to process problems.",
+      "Existing products solve most of the problem, but the remaining gap keeps forcing your team into manual workarounds.",
+      "You see potential, but need a grounded way to evaluate use cases, accuracy, risk, and expected value.",
+      "The goal is not to automate everything. It is to remove the right friction."
+    ],
+    "headings": [
+      "Section eyebrow:",
+      "Heading:",
+      "Intro:",
+      "Cards:",
+      "Manual work is multiplying",
+      "Your tools do not talk",
+      "Errors are hard to catch",
+      "Growth adds overhead",
+      "Off-the-shelf software almost fits",
+      "AI feels promising—but unclear",
+      "Section close:"
+    ]
+  },
+  "3.6": {
+    "title": "Servicios",
+    "blocks": [
+      "WHAT WE DO",
+      "From Process Bottleneck to Working Solution",
+      "We can diagnose a workflow, connect the systems you already use, add intelligence where it is useful, or build the missing piece from scratch.",
+      "Map the current process, quantify manual effort, identify failure points, and rank opportunities by potential impact, complexity, and risk.",
+      "Process and handoff mapping\nTime and cost baseline\nOpportunity prioritization\nRecommended roadmap",
+      "Automate repetitive, rules-based work such as routing, notifications, document handling, reporting, data entry, and approval flows.",
+      "Reliable rule-based workflows\nHuman review where it matters\nException handling and alerts\nOperational monitoring",
+      "Apply AI to tasks that benefit from language understanding, classification, extraction, summarization, or assisted decision-making—with appropriate review and controls.",
+      "Document and inbox triage\nData extraction and classification\nKnowledge-assisted responses\nHuman-in-the-loop design",
+      "Connect your business applications so information moves cleanly between teams and tools without duplicate entry or fragile workarounds.",
+      "CRM, finance, support, and operations\nAPI and webhook integrations\nData synchronization\nAudit trails and recovery paths",
+      "Build a focused internal tool, portal, dashboard, or workflow application when existing software cannot solve the problem cleanly.",
+      "Purpose-built interfaces\nInternal portals and dashboards\nWorkflow and approval tools\nMaintainable, documented delivery"
+    ],
+    "headings": [
+      "Section eyebrow:",
+      "Heading:",
+      "Intro:",
+      "Operational Workflow Audit",
+      "Bullets:",
+      "Workflow Automation",
+      "Bullets:",
+      "AI-Enabled Workflows",
+      "Bullets:",
+      "Systems Integration",
+      "Bullets:",
+      "Custom Internal Software",
+      "Bullets:"
+    ]
+  },
+  "3.7": {
+    "title": "Principio de selección tecnológica",
+    "blocks": [
+      "The Right Tool for the Work",
+      "Not every process needs AI. Predictable tasks often work best with straightforward rules and integrations. Messy, language-heavy work may benefit from AI. Unique operational gaps may require custom software. We choose based on reliability, cost, maintainability, and business value—not novelty.",
+      "AUTOMATION\nBest for repeatable steps, clear rules, and consistent inputs.\n\nAI\nBest for interpreting, classifying, extracting, or drafting from unstructured information.\n\nCUSTOM SOFTWARE\nBest when your workflow is valuable, specific, and poorly served by existing products.",
+      "Often, the strongest solution combines all three."
+    ],
+    "headings": [
+      "Heading:",
+      "Body:",
+      "Three comparison labels:",
+      "Closing line:"
+    ]
+  },
+  "3.8": {
+    "title": "Proceso de trabajo",
+    "blocks": [
+      "HOW WE WORK",
+      "Start Focused. Prove Value. Expand With Confidence.",
+      "We learn the workflow, the people involved, the tools in use, and what a better outcome would mean for the business.",
+      "We map the current state, estimate the cost of friction, and identify the highest-value opportunities and key risks.",
+      "We propose the simplest reliable solution, define success metrics, and agree on scope before implementation begins.",
+      "We implement in controlled stages, test real-world exceptions, and involve the people who will use the workflow.",
+      "We compare results with the baseline, document the system, and prioritize the next improvement only when the evidence supports it.",
+      "Discuss Your Workflow",
+      "No obligation to automate. If the opportunity is weak, the right recommendation may be to leave the process alone."
+    ],
+    "headings": [
+      "Section eyebrow:",
+      "Heading:",
+      "Discover",
+      "Diagnose",
+      "Design",
+      "Build and Validate",
+      "Measure and Improve",
+      "Process CTA:",
+      "Process microcopy:"
+    ]
+  },
+  "3.9": {
+    "title": "Escenarios ilustrativos",
+    "blocks": [
+      "EXAMPLE OUTCOMES",
+      "What Better Operations Could Look Like",
+      "The scenarios below are illustrative examples—not client case studies or guaranteed results. Estimates vary by workflow, volume, systems, and implementation quality.",
+      "Illustrative scenario",
+      "Faster Intake for a Professional Services Team",
+      "Requests arrive by email, staff re-enter details into a project system, create folders, assign owners, and send confirmation messages manually.",
+      "A structured intake flow extracts key details, validates required information, creates the record, routes the request, and flags exceptions for review.",
+      "At 180 requests per month and 12 minutes saved per request, the workflow could recover about 36 hours per month—before accounting for fewer corrections or faster response times.",
+      "~36 potential hours recovered / month\n180 monthly requests\nHuman review for exceptions",
+      "Illustrative scenario",
+      "Connected Order Handoffs for a B2B Distributor",
+      "Sales details are copied from the CRM into operations and accounting systems, creating delays and mismatched records.",
+      "An integration validates required fields, creates downstream records, alerts the right owner, and logs sync failures for recovery.",
+      "At 320 orders per month and 8 minutes of duplicate entry avoided per order, the workflow could recover roughly 43 hours per month and reduce re-keying risk.",
+      "~43 potential hours recovered / month\n320 monthly orders\nVisible sync and exception log",
+      "Illustrative scenario",
+      "Quicker Document Review for an Operations Team",
+      "Staff open incoming documents, locate a standard set of fields, enter them into an internal tracker, and escalate incomplete submissions.",
+      "An AI-assisted workflow extracts and validates fields, highlights uncertainty, and requires a person to approve low-confidence or high-impact items.",
+      "At 500 documents per month and an average of 6 minutes saved per document, the workflow could recover about 50 hours per month while keeping review controls in place.",
+      "~50 potential hours recovered / month\n500 monthly documents\nConfidence-based human review",
+      "Replace these illustrative scenarios with verified, permissioned client case studies as they become available. Do not remove the illustrative label until every claim has been validated."
+    ],
+    "headings": [
+      "Section eyebrow:",
+      "Heading:",
+      "Required disclosure above cards:",
+      "Badge:",
+      "Title:",
+      "Situation:",
+      "Example solution:",
+      "Example outcome:",
+      "Metrics:",
+      "Badge:",
+      "Title:",
+      "Situation:",
+      "Example solution:",
+      "Example outcome:",
+      "Metrics:",
+      "Badge:",
+      "Title:",
+      "Situation:",
+      "Example solution:",
+      "Example outcome:",
+      "Metrics:",
+      "Required note beneath cards:"
+    ]
+  },
+  "3.10": {
+    "title": "Calculadora de ahorro potencial",
+    "blocks": [
+      "QUICK ESTIMATE",
+      "Estimate the Cost of One Repetitive Workflow",
+      "Use rough numbers for one task your team repeats. This is a directional estimate, not a quote or guaranteed savings projection.",
+      "Use a blended hourly cost if multiple roles are involved. Include wages and overhead only if that is useful for your estimate.",
+      "monthly_manual_hours = monthly_volume × minutes_per_task ÷ 60\npotential_hours_recovered = monthly_manual_hours × reduction_percentage\nestimated_monthly_capacity_value = potential_hours_recovered × hourly_cost\nestimated_annual_capacity_value = estimated_monthly_capacity_value × 12",
+      "Current manual effort\n[X] hours / month\n\nPotential capacity recovered\n[X] hours / month\n\nEstimated monthly capacity value\n$[X]\n\nEstimated annual capacity value\n$[X]",
+      "Directional estimate based only on the inputs above. Actual results depend on process variability, exception rates, implementation costs, adoption, and ongoing oversight. Recovered time does not automatically equal cash savings.",
+      "Validate This Estimate",
+      "I would like to review a workflow with an estimated [X] manual hours per month and [Y] potential hours recovered."
+    ],
+    "headings": [
+      "Section eyebrow:",
+      "Heading:",
+      "Intro:",
+      "Inputs y valores iniciales:",
+      "Fórmulas:",
+      "Result labels:",
+      "Disclaimer obligatorio junto al resultado:",
+      "Calculator CTA:"
+    ]
+  },
+  "3.11": {
+    "title": "Confianza y reducción de riesgo",
+    "blocks": [
+      "BUILT FOR REAL OPERATIONS",
+      "Practical by Design. Accountable by Default.",
+      "Automation becomes valuable when it is reliable, understandable, and supported by the people who use it. Every engagement should begin with clear boundaries and measurable outcomes.",
+      "Define the baseline, target metric, constraints, and owner before building.",
+      "Keep review and approval steps for uncertain, sensitive, or high-impact decisions.",
+      "Test with representative data, handle exceptions, and roll out in manageable stages.",
+      "Document how the workflow works, what it depends on, and how failures are surfaced.",
+      "Minimize unnecessary data movement and agree on access, retention, and vendor constraints before implementation."
+    ],
+    "headings": [
+      "Section eyebrow:",
+      "Heading:",
+      "Intro:",
+      "Pillars:",
+      "Clear success criteria",
+      "Human oversight where needed",
+      "Controlled implementation",
+      "Maintainable delivery",
+      "Data-conscious design",
+      "Important implementation note:"
+    ]
+  },
+  "3.12": {
+    "title": "FAQ",
+    "blocks": [
+      "FREQUENTLY ASKED QUESTIONS",
+      "Questions Before We Start",
+      "Good candidates are frequent, time-consuming, rule-heavy, or prone to handoff errors. Examples include intake, data entry, document processing, reporting, approvals, system updates, customer follow-up, and internal requests. The first step is to confirm that changing the process is actually worthwhile.",
+      "No. We use AI when the work requires interpretation of language or unstructured information and when the expected value justifies the added complexity. For predictable tasks, conventional automation is often simpler, more reliable, and less expensive.",
+      "Often, yes. We begin by reviewing your current tools, available integrations, APIs, data access, and vendor limitations. We will recommend replacing a tool only when the business case supports it.",
+      "We can evaluate a focused custom application or internal tool. Custom development should be reserved for a valuable, specific problem that cannot be solved cleanly with configuration or integration alone.",
+      "The primary goal is to reduce manual workload, improve consistency, and create capacity. That can help teams spend more time on higher-value work, handle growth without adding the same level of overhead, or reallocate effort where it matters most. Staffing decisions remain yours.",
+      "We start with a baseline: task volume, time per task, labor cost, error or rework rates, and operational constraints. Any estimate is a working model, not a guarantee, and should be validated against actual results after implementation.",
+      "It depends on the workflow, systems, data quality, security requirements, and number of exceptions. After discovery, we define a focused scope, milestones, and expected timeline before implementation begins.",
+      "Book a discovery call or send a short description of the workflow. We will discuss the current process, the cost of the problem, and whether there is a practical next step."
+    ],
+    "headings": [
+      "Section eyebrow:",
+      "Heading:",
+      "What kinds of processes can you improve?",
+      "Do you use AI for every solution?",
+      "Can you work with the software we already use?",
+      "What if no existing product fits our workflow?",
+      "Will automation replace members of our team?",
+      "How do you estimate potential savings?",
+      "How long does a project take?",
+      "How do we get started?"
+    ]
+  },
+  "3.13": {
+    "title": "CTA final",
+    "blocks": [
+      "Start With the Workflow That Slows You Down Most",
+      "Tell us where work gets stuck, repeated, or re-entered. We will help you determine whether automation, AI, integration, custom software—or no change at all—is the right next step.",
+      "Book a Discovery Call",
+      "Send Us the Details",
+      "A focused first conversation. No inflated projections and no obligation to build."
+    ],
+    "headings": [
+      "Heading:",
+      "Body:",
+      "Primary CTA:",
+      "Secondary CTA:",
+      "Microcopy:"
+    ]
+  },
+  "3.14": {
+    "title": "Contacto",
+    "blocks": [
+      "CONTACT",
+      "Tell Us About the Process",
+      "Share a few details about the work, the people involved, and what you would like to improve. We will review your message and reply within [RESPONSE_TIME_BUSINESS_DAYS].",
+      "Prefer to choose a time now?\nBook on Our Calendar",
+      "Or email us at [CONTACT_EMAIL]"
+    ],
+    "headings": [
+      "Section eyebrow:",
+      "Heading:",
+      "Intro:",
+      "Calendar option:",
+      "Direct email:"
+    ]
+  },
+  "3.15": {
+    "title": "Footer",
+    "blocks": [
+      "[BRAND_NAME]\nPractical automation, integrations, and custom software for growing businesses.\n\nServices\nProcess\nExamples\nFAQ\nContact\n\nEmail: [CONTACT_EMAIL]\nLinkedIn: [LINKEDIN_URL]\n\nPrivacy\nTerms\n\n© [CURRENT_YEAR] [LEGAL_COMPANY_NAME]. All rights reserved."
+    ],
+    "headings": []
+  }
+}
